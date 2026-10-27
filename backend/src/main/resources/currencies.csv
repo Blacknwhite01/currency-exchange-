@@ -1,0 +1,167 @@
+# code|name|symbol|flag (flag-icons code; empty when a currency is shared by several countries or has no single flag)
+USD|US Dollar|$|us
+AED|UAE Dirham|د.إ|ae
+AFN|Afghan Afghani|؋|af
+ALL|Albanian Lek|L|al
+AMD|Armenian Dram|֏|am
+ANG|Netherlands Antillean Guilder|ƒ|
+AOA|Angolan Kwanza|Kz|ao
+ARS|Argentine Peso|$|ar
+AUD|Australian Dollar|A$|au
+AWG|Aruban Florin|ƒ|aw
+AZN|Azerbaijani Manat|₼|az
+BAM|Bosnia-Herzegovina Convertible Mark|KM|ba
+BBD|Barbadian Dollar|Bds$|bb
+BDT|Bangladeshi Taka|৳|bd
+BGN|Bulgarian Lev|лв|bg
+BHD|Bahraini Dinar|.د.ب|bh
+BIF|Burundian Franc|FBu|bi
+BMD|Bermudian Dollar|$|bm
+BND|Brunei Dollar|B$|bn
+BOB|Bolivian Boliviano|Bs.|bo
+BRL|Brazilian Real|R$|br
+BSD|Bahamian Dollar|B$|bs
+BTN|Bhutanese Ngultrum|Nu.|bt
+BWP|Botswana Pula|P|bw
+BYN|Belarusian Ruble|Br|by
+BZD|Belize Dollar|BZ$|bz
+CAD|Canadian Dollar|C$|ca
+CDF|Congolese Franc|FC|cd
+CHF|Swiss Franc|CHF|ch
+CLF|Chilean Unit of Account (UF)|UF|cl
+CLP|Chilean Peso|$|cl
+CNH|Chinese Yuan (Offshore)|¥|cn
+CNY|Chinese Yuan|¥|cn
+COP|Colombian Peso|$|co
+CRC|Costa Rican Colón|₡|cr
+CUP|Cuban Peso|$|cu
+CVE|Cape Verdean Escudo|Esc|cv
+CZK|Czech Koruna|Kč|cz
+DJF|Djiboutian Franc|Fdj|dj
+DKK|Danish Krone|kr|dk
+DOP|Dominican Peso|RD$|do
+DZD|Algerian Dinar|د.ج|dz
+EGP|Egyptian Pound|E£|eg
+ERN|Eritrean Nakfa|Nfk|er
+ETB|Ethiopian Birr|Br|et
+EUR|Euro|€|eu
+FJD|Fijian Dollar|FJ$|fj
+FKP|Falkland Islands Pound|£|fk
+FOK|Faroese Króna|kr|fo
+GBP|British Pound|£|gb
+GEL|Georgian Lari|₾|ge
+GGP|Guernsey Pound|£|gg
+GHS|Ghanaian Cedi|₵|gh
+GIP|Gibraltar Pound|£|gi
+GMD|Gambian Dalasi|D|gm
+GNF|Guinean Franc|FG|gn
+GTQ|Guatemalan Quetzal|Q|gt
+GYD|Guyanese Dollar|G$|gy
+HKD|Hong Kong Dollar|HK$|hk
+HNL|Honduran Lempira|L|hn
+HRK|Croatian Kuna (legacy)|kn|hr
+HTG|Haitian Gourde|G|ht
+HUF|Hungarian Forint|Ft|hu
+IDR|Indonesian Rupiah|Rp|id
+ILS|Israeli New Shekel|₪|il
+IMP|Manx Pound|£|im
+INR|Indian Rupee|₹|in
+IQD|Iraqi Dinar|ع.د|iq
+IRR|Iranian Rial|﷼|ir
+ISK|Icelandic Króna|kr|is
+JEP|Jersey Pound|£|je
+JMD|Jamaican Dollar|J$|jm
+JOD|Jordanian Dinar|د.ا|jo
+JPY|Japanese Yen|¥|jp
+KES|Kenyan Shilling|KSh|ke
+KGS|Kyrgystani Som|сом|kg
+KHR|Cambodian Riel|៛|kh
+KID|Kiribati Dollar|$|ki
+KMF|Comorian Franc|CF|km
+KRW|South Korean Won|₩|kr
+KWD|Kuwaiti Dinar|د.ك|kw
+KYD|Cayman Islands Dollar|CI$|ky
+KZT|Kazakhstani Tenge|₸|kz
+LAK|Laotian Kip|₭|la
+LBP|Lebanese Pound|ل.ل|lb
+LKR|Sri Lankan Rupee|Rs|lk
+LRD|Liberian Dollar|L$|lr
+LSL|Lesotho Loti|L|ls
+LYD|Libyan Dinar|ل.د|ly
+MAD|Moroccan Dirham|د.م.|ma
+MDL|Moldovan Leu|L|md
+MGA|Malagasy Ariary|Ar|mg
+MKD|Macedonian Denar|ден|mk
+MMK|Myanmar Kyat|K|mm
+MNT|Mongolian Tögrög|₮|mn
+MOP|Macanese Pataca|MOP$|mo
+MRU|Mauritanian Ouguiya|UM|mr
+MUR|Mauritian Rupee|₨|mu
+MVR|Maldivian Rufiyaa|Rf|mv
+MWK|Malawian Kwacha|MK|mw
+MXN|Mexican Peso|MX$|mx
+MYR|Malaysian Ringgit|RM|my
+MZN|Mozambican Metical|MT|mz
+NAD|Namibian Dollar|N$|na
+NGN|Nigerian Naira|₦|ng
+NIO|Nicaraguan Córdoba|C$|ni
+NOK|Norwegian Krone|kr|no
+NPR|Nepalese Rupee|Rs|np
+NZD|New Zealand Dollar|NZ$|nz
+OMR|Omani Rial|ر.ع.|om
+PAB|Panamanian Balboa|B/.|pa
+PEN|Peruvian Sol|S/|pe
+PGK|Papua New Guinean Kina|K|pg
+PHP|Philippine Peso|₱|ph
+PKR|Pakistani Rupee|Rs|pk
+PLN|Polish Złoty|zł|pl
+PYG|Paraguayan Guaraní|₲|py
+QAR|Qatari Riyal|ر.ق|qa
+RON|Romanian Leu|lei|ro
+RSD|Serbian Dinar|дин.|rs
+RUB|Russian Ruble|₽|ru
+RWF|Rwandan Franc|FRw|rw
+SAR|Saudi Riyal|ر.س|sa
+SBD|Solomon Islands Dollar|SI$|sb
+SCR|Seychellois Rupee|SRe|sc
+SDG|Sudanese Pound|ج.س.|sd
+SEK|Swedish Krona|kr|se
+SGD|Singapore Dollar|S$|sg
+SHP|Saint Helena Pound|£|sh
+SLE|Sierra Leonean Leone|Le|sl
+SLL|Sierra Leonean Leone (old)|Le|sl
+SOS|Somali Shilling|Sh|so
+SRD|Surinamese Dollar|$|sr
+SSP|South Sudanese Pound|£|ss
+STN|São Tomé and Príncipe Dobra|Db|st
+SYP|Syrian Pound|£S|sy
+SZL|Swazi Lilangeni|E|sz
+THB|Thai Baht|฿|th
+TJS|Tajikistani Somoni|SM|tj
+TMT|Turkmenistani Manat|m|tm
+TND|Tunisian Dinar|د.ت|tn
+TOP|Tongan Paʻanga|T$|to
+TRY|Turkish Lira|₺|tr
+TTD|Trinidad and Tobago Dollar|TT$|tt
+TVD|Tuvaluan Dollar|$|tv
+TWD|New Taiwan Dollar|NT$|tw
+TZS|Tanzanian Shilling|TSh|tz
+UAH|Ukrainian Hryvnia|₴|ua
+UGX|Ugandan Shilling|USh|ug
+UYU|Uruguayan Peso|$U|uy
+UZS|Uzbekistani Som|soʻm|uz
+VES|Venezuelan Bolívar|Bs.S|ve
+VND|Vietnamese Dong|₫|vn
+VUV|Vanuatu Vatu|VT|vu
+WST|Samoan Tālā|WS$|ws
+XAF|Central African CFA Franc|FCFA|
+XCD|East Caribbean Dollar|EC$|
+XCG|Caribbean Guilder|Cg|
+XDR|Special Drawing Rights (IMF)|SDR|
+XOF|West African CFA Franc|CFA|
+XPF|CFP Franc|₣|
+YER|Yemeni Rial|﷼|ye
+ZAR|South African Rand|R|za
+ZMW|Zambian Kwacha|ZK|zm
+ZWG|Zimbabwe Gold|ZiG|zw
+ZWL|Zimbabwean Dollar (legacy)|Z$|zw
